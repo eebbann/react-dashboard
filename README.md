@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+built with d3 library : rechart
+used pure css
+adding redux
+and built with love
+
 
 ## Available Scripts
 
