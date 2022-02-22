@@ -5,8 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 d3 library : rechart.
 
 -used pure css
+
 -redux
+
 and love
+<img width="1280" alt="Screenshot 2022-02-16 at 2 59 33 PM" src="https://user-images.githubusercontent.com/82966135/155180084-8aa73961-940c-46a2-b802-04b3bcce8725.png">
 
 
 ## Available Scripts
